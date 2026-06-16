@@ -1,6 +1,11 @@
-DSpico Themes
+<p align="left">DSpico Theme</p>
 
-Installation
-  Copy folder to /_pico/themes
-  Open settings.json file
-  Edit "theme": "[folder name]"
+###
+
+<h2 align="left">Installation</h2>
+
+###
+
+<p align="left">Copy folder to /_pico/themes<br>Open /_pico/settings.json<br>Edit "theme": "[folder name]"</p>
+
+###
