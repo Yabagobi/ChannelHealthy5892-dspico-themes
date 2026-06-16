@@ -6,6 +6,6 @@
 
 ###
 
-<p align="left">  Copy folder to <pre>/_pico/themes</pre><br>  Open <pre>/_pico/settings.json</pre><br>  Edit "theme": "<pre>folder name</pre>"</p>
+<p align="left">  Copy folder to <pre>/_pico/themes</pre><br>  Open <pre>/_pico/settings.json</pre><br>  Edit <pre>"theme": "[folder name]"</pre></p>
 
 ###
