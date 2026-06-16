@@ -1,0 +1,132 @@
+{
+    "type": "custom",
+    "name": "steampico",
+    "description": "steam ui",
+    "author": "ChannelHealthy5892",
+    "primaryColor": {
+        "r": 41,
+        "g": 46,
+        "b": 55
+    },
+    "darkTheme": false,
+    "topIcon": {
+        "position": {
+            "x": 130,
+            "y": 75
+        },
+        "blendColor": {
+            "r": 51,
+            "g": 51,
+            "b": 51
+        }
+    },
+    "topBannerTextLine0": {
+        "position": {
+            "x": 20,
+            "y": 55
+        },
+        "width": 176,
+        "textColor": {
+            "r": 194,
+            "g": 208,
+            "b": 220
+        },
+        "blendColor": {
+            "r": 51,
+            "g": 51,
+            "b": 51
+        }
+    },
+    "topBannerTextLine1": {
+        "position": {
+            "x": 130,
+            "y": 115
+        },
+        "width": 105,
+        "textColor": {
+            "r": 194,
+            "g": 208,
+            "b": 220
+        },
+        "blendColor": {
+            "r": 51,
+            "g": 51,
+            "b": 51
+        }
+    },
+    "topBannerTextLine2": {
+        "position": {
+            "x": 130,
+            "y": 132
+        },
+        "width": 105,
+        "textColor": {
+            "r": 194,
+            "g": 208,
+            "b": 220
+        },
+        "blendColor": {
+            "r": 51,
+            "g": 51,
+            "b": 51
+        }
+    },
+    "topFileNameText": {
+        "position": {
+            "x": 36,
+            "y": 30
+        },
+        "width": 220,
+        "textColor": {
+            "r": 194,
+            "g": 208,
+            "b": 220
+        },
+        "blendColor": {
+            "r": 51,
+            "g": 51,
+            "b": 51
+        }
+    },
+	"topCover": {
+        "position": {
+            "x": 21,
+            "y": 72
+        }
+    },
+    "gridIcon": {
+        "blendColor": {
+            "r": 194,
+            "g": 208,
+            "b": 220
+        }
+    },
+    "bannerListIcon": {
+        "blendColor": {
+            "r": 194,
+            "g": 208,
+            "b": 220
+        }
+    },
+    "bannerListTextLine0": {
+        "textColor": {
+            "r": 255,
+            "g": 255,
+            "b": 255
+        }
+    },
+    "bannerListTextLine1": {
+        "textColor": {
+            "r": 255,
+            "g": 255,
+            "b": 255
+        }
+    },
+    "bannerListTextLine2": {
+        "textColor": {
+            "r": 255,
+            "g": 255,
+            "b": 255
+        }
+    }
+}
