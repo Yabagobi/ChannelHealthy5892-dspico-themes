@@ -1,4 +1,4 @@
-<p align="left">DSpico Theme</p>
+<p align="left">DSpico Themes</p>
 
 ###
 
