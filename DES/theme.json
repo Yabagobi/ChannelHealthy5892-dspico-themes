@@ -1,0 +1,132 @@
+{
+    "type": "custom",
+    "name": "DSpico Entertainment System",
+    "description": "NES theme",
+    "author": "ChannelHealthy5892",
+    "primaryColor": {
+        "r": 16,
+        "g": 34,
+        "b": 66
+    },
+    "darkTheme": true,
+    "topIcon": {
+        "position": {
+            "x": 22,
+            "y": 25
+        },
+        "blendColor": {
+            "r": 200,
+            "g": 200,
+            "b": 200
+        }
+    },
+    "topBannerTextLine0": {
+        "position": {
+            "x": 59,
+            "y": 21
+        },
+        "width": 176,
+        "textColor": {
+            "r": 255,
+            "g": 255,
+            "b": 255
+        },
+        "blendColor": {
+            "r": 0,
+            "g": 0,
+            "b": 0
+        }
+    },
+    "topBannerTextLine1": {
+        "position": {
+            "x": 59,
+            "y": 34
+        },
+        "width": 176,
+        "textColor": {
+            "r": 255,
+            "g": 255,
+            "b": 255
+        },
+        "blendColor": {
+            "r": 0,
+            "g": 0,
+            "b": 0
+        }
+    },
+    "topBannerTextLine2": {
+        "position": {
+            "x": 59,
+            "y": 46
+        },
+        "width": 176,
+        "textColor": {
+            "r": 255,
+            "g": 255,
+            "b": 255
+        },
+        "blendColor": {
+            "r": 0,
+            "g": 0,
+            "b": 0
+        }
+    },
+    "topFileNameText": {
+        "position": {
+            "x": 2,
+            "y": 7
+        },
+        "width": 212,
+        "textColor": {
+            "r": 30,
+            "g": 30,
+            "b": 30
+        },
+        "blendColor": {
+            "r": 178,
+            "g": 178,
+            "b": 178
+        }
+    },
+    "gridIcon": {
+        "blendColor": {
+            "r": 178,
+            "g": 178,
+            "b": 178
+        }
+    },
+    "bannerListIcon": {
+        "blendColor": {
+            "r": 178,
+            "g": 178,
+            "b": 178
+        }
+    },
+    "bannerListTextLine0": {
+        "textColor": {
+            "r": 20,
+            "g": 20,
+            "b": 20
+        }
+    },
+    "bannerListTextLine1": {
+        "textColor": {
+            "r": 230,
+            "g": 0,
+            "b": 18
+        }
+    },
+    "bannerListTextLine2": {
+        "textColor": {
+            "r": 230,
+            "g": 0,
+            "b": 18
+        }
+    },
+    "topCover": {
+        "position": {
+            "x": 75,
+            "y": 63
+        }
+    }
+}

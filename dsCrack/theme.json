@@ -1,0 +1,132 @@
+{
+    "type": "custom",
+    "name": "dscrack",
+    "description": "cracked screen",
+    "author": "ChannelHealthy5892",
+    "primaryColor": {
+        "r": 78,
+        "g": 168,
+        "b": 222
+    },
+    "darkTheme": false,
+    "topIcon": {
+        "position": {
+            "x": 24,
+            "y": 132
+        },
+        "blendColor": {
+            "r": 216,
+            "g": 216,
+            "b": 216
+        }
+    },
+    "topBannerTextLine0": {
+        "position": {
+            "x": 70,
+            "y": 126
+        },
+        "width": 176,
+        "textColor": {
+            "r": 255,
+            "g": 0,
+            "b": 0
+        },
+        "blendColor": {
+            "r": 216,
+            "g": 216,
+            "b": 216
+        }
+    },
+    "topBannerTextLine1": {
+        "position": {
+            "x": 70,
+            "y": 141
+        },
+        "width": 176,
+        "textColor": {
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "blendColor": {
+            "r": 216,
+            "g": 216,
+            "b": 216
+        }
+    },
+    "topBannerTextLine2": {
+        "position": {
+            "x": 70,
+            "y": 155
+        },
+        "width": 176,
+        "textColor": {
+            "r": 0,
+            "g": 255,
+            "b": 0
+        },
+        "blendColor": {
+            "r": 216,
+            "g": 216,
+            "b": 216
+        }
+    },
+    "topFileNameText": {
+        "position": {
+            "x": 18,
+            "y": 170
+        },
+        "width": 220,
+        "textColor": {
+            "r": 0,
+            "g": 0,
+            "b": 255
+        },
+        "blendColor": {
+            "r": 216,
+            "g": 216,
+            "b": 216
+        }
+    },
+    "gridIcon": {
+        "blendColor": {
+            "r": 216,
+            "g": 216,
+            "b": 216
+        }
+    },
+    "bannerListIcon": {
+        "blendColor": {
+            "r": 216,
+            "g": 216,
+            "b": 216
+        }
+    },
+    "bannerListTextLine0": {
+        "textColor": {
+            "r": 255,
+            "g": 0,
+            "b": 0
+        }
+    },
+    "bannerListTextLine1": {
+        "textColor": {
+            "r": 255,
+            "g": 0,
+            "b": 255
+        }
+    },
+    "bannerListTextLine2": {
+        "textColor": {
+            "r": 255,
+            "g": 0,
+            "b": 255
+        }
+    },
+    "topCover": {
+        "position": {
+            "x": 11,
+            "y": 11
+        }
+    }
+}

@@ -1,0 +1,132 @@
+{
+    "type": "custom",
+    "name": "DSmiku",
+    "description": "Hatsune Miku theme",
+    "author": "ChannelHealthy5892",
+    "primaryColor": {
+        "r": 225,
+        "g": 40,
+        "b": 133
+    },
+    "darkTheme": false,
+    "topIcon": {
+        "position": {
+            "x": 201,
+            "y": 130
+        },
+        "blendColor": {
+            "r": 255,
+            "g": 214,
+            "b": 255
+        }
+    },
+    "topBannerTextLine0": {
+        "position": {
+            "x": 22,
+            "y": 128
+        },
+        "width": 173,
+        "textColor": {
+            "r": 0,
+            "g": 0,
+            "b": 106
+        },
+        "blendColor": {
+            "r": 134,
+            "g": 206,
+            "b": 203
+        }
+    },
+    "topBannerTextLine1": {
+        "position": {
+            "x": 22,
+            "y": 149
+        },
+        "width": 173,
+        "textColor": {
+            "r": 0,
+            "g": 0,
+            "b": 106
+        },
+        "blendColor": {
+            "r": 134,
+            "g": 206,
+            "b": 203
+        }
+    },
+    "topBannerTextLine2": {
+        "position": {
+            "x": 20,
+            "y": 10
+        },
+        "width": 173,
+        "textColor": {
+            "r": 0,
+            "g": 0,
+            "b": 106
+        },
+        "blendColor": {
+            "r": 134,
+            "g": 206,
+            "b": 203
+        }
+    },
+    "topFileNameText": {
+        "position": {
+            "x": 25,
+            "y": 173
+        },
+        "width": 208,
+        "textColor": {
+            "r": 0,
+            "g": 0,
+            "b": 106
+        },
+        "blendColor": {
+            "r": 134,
+            "g": 206,
+            "b": 203
+        }
+    },
+    "gridIcon": {
+        "blendColor": {
+            "r": 134,
+            "g": 206,
+            "b": 203
+        }
+    },
+    "bannerListIcon": {
+        "blendColor": {
+            "r": 134,
+            "g": 206,
+            "b": 203
+        }
+    },
+    "bannerListTextLine0": {
+        "textColor": {
+            "r": 0,
+            "g": 0,
+            "b": 106
+        }
+    },
+    "bannerListTextLine1": {
+        "textColor": {
+            "r": 0,
+            "g": 0,
+            "b": 106
+        }
+    },
+    "bannerListTextLine2": {
+        "textColor": {
+            "r": 0,
+            "g": 0,
+            "b": 106
+        }
+    },
+    "topCover": {
+        "position": {
+            "x": 21,
+            "y": 25
+        }
+    }
+}
