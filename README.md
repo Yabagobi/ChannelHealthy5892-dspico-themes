@@ -1,5 +1,5 @@
 <p align="left">DSpico Themes</p>
-<p align="left">by ChannelHealthy5892</p>
+<p align="left">by u/ChannelHealthy5892</p>
 
 ###
 
