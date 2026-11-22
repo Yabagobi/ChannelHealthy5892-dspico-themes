@@ -1,0 +1,132 @@
+{
+    "type": "custom",
+    "name": "Steam Green",
+    "description": "A theme based off of the 2004 Steam UI.",
+    "author": "Obi Wan Canole, u/ChannelHealthy5892",
+    "primaryColor": {
+        "r": 62,
+        "g": 70,
+        "b": 55
+    },
+    "darkTheme": true,
+    "topIcon": {
+        "position": {
+            "x": 10,
+            "y": 123
+        },
+        "blendColor": {
+            "r": 200,
+            "g": 200,
+            "b": 200
+        }
+    },
+    "topBannerTextLine0": {
+        "position": {
+            "x": 46,
+            "y": 122
+        },
+        "width": 176,
+        "textColor": {
+            "r": 191,
+            "g": 186,
+            "b": 80
+        },
+        "blendColor": {
+            "r": 62,
+            "g": 70,
+            "b": 55
+        }
+    },
+    "topBannerTextLine1": {
+        "position": {
+            "x": 46,
+            "y": 134
+        },
+        "width": 176,
+        "textColor": {
+            "r": 255,
+            "g": 255,
+            "b": 255
+        },
+        "blendColor": {
+            "r": 62,
+            "g": 70,
+            "b": 55
+        }
+    },
+    "topBannerTextLine2": {
+        "position": {
+            "x": 46,
+            "y": 146
+        },
+        "width": 176,
+        "textColor": {
+            "r": 255,
+            "g": 255,
+            "b": 255
+        },
+        "blendColor": {
+            "r": 62,
+            "g": 70,
+            "b": 55
+        }
+    },
+    "topFileNameText": {
+        "position": {
+            "x": 60,
+            "y": 177
+        },
+        "width": 170,
+        "textColor": {
+            "r": 137,
+            "g": 146,
+            "b": 125
+        },
+        "blendColor": {
+            "r": 74,
+            "g": 90,
+            "b": 66
+        }
+    },
+    "gridIcon": {
+        "blendColor": {
+            "r": 62,
+            "g": 70,
+            "b": 55
+        }
+    },
+    "bannerListIcon": {
+        "blendColor": {
+            "r": 62,
+            "g": 70,
+            "b": 55
+        }
+    },
+    "bannerListTextLine0": {
+        "textColor": {
+            "r": 255,
+            "g": 255,
+            "b": 255
+        }
+    },
+    "bannerListTextLine1": {
+        "textColor": {
+            "r": 137,
+            "g": 146,
+            "b": 125
+        }
+    },
+    "bannerListTextLine2": {
+        "textColor": {
+            "r": 137,
+            "g": 146,
+            "b": 125
+        }
+    },
+    "topCover": {
+        "position": {
+            "x": 122,
+            "y": 27
+        }
+    }
+}
